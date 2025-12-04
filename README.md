@@ -535,7 +535,7 @@ MIT
 
 ## 👥 Support
 
-For support, email support@bookme.com or create an issue in the repository.
+For support, email dev.obeng.bismark@gmail.com or create an issue in the repository.
 
 ## 🙏 Acknowledgments
 
